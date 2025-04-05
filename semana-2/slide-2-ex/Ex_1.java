@@ -16,5 +16,7 @@ public class Ex_1{
         }
 
         System.out.printf("sum: %d\n",sum);
+
+        input.close();
     }
 }
